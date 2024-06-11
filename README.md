@@ -6,6 +6,24 @@ The course teaches you how to build AI applications using [Langchain](https://la
 
 The initial base code for the course is provided in [this repository](https://github.com/shawnesquivel/openai-javascript-course/tree/1-start-here).
 
+## 🚩 Requirements
+
+To run this project, some API keys are required:
+
+- [OpenAI API key](https://platform.openai.com/api-keys)
+- [Pinecone API key and index](https://app.pinecone.io/)
+- [SerpAPI API key](https://serpapi.com/)
+
+## ⚙️ Environment Variables
+
+```
+OPENAI_API_KEY=your-openai-api-key
+SERPAPI_API_KEY=your-serpapi-api-key
+PINECONE_API_KEY=your-pinecone-api-key
+PINECONE_ENVIRONMENT=your-pinecone-environment
+PINECONE_INDEX=your-pinecone-index
+```
+
 ## Getting Started
 
 To get started, install the dependencies from package.json:
@@ -45,3 +63,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## 🔗 Useful links
 
 - [Notion Course Texbook](https://weeknightsandweekends.notion.site/Langchain-JS-Course-Dashboard-1ebe2de6cb0c4749ad63ff1ccfe588a0)
+- [Tailwind Cheat Sheet](https://nerdcave.com/tailwind-cheat-sheet)
+- [LangChain documentation for JavaScript](https://js.langchain.com/v0.2/docs/introduction/)
+- [LangChain Discord channel](https://discord.com/invite/HqEJZGGt97)
+- [LangChain KapaAI](https://discord.com/invite/YGAu3Yt2sm)
+- [Official LangChain Discord](https://discord.com/invite/sAxW255VgA)
+- [OpenAI API documentation](https://platform.openai.com/docs/)
